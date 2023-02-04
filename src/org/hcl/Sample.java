@@ -24,7 +24,11 @@ public class Sample {
 		{
 			System.out.println("C is greater :"+c);
 		}
+<<<<<<< HEAD
 		System.out.println("Hai");
+=======
+		System.out.println("HELLO");
+>>>>>>> 6014a86639f3ebd980e3c201f49b345a5042c40a
 		
 	}
 
